@@ -1,0 +1,6 @@
+[
+  { "id": "1", "title": "Post 1 (Local)", "body": "Este es el primer post local" },
+  { "id": "2", "title": "Post 2 (Local)", "body": "Segundo post cargado desde JSON" },
+  { "id": "3", "title": "Post 3 (Local)", "body": "Tercer post, también desde un archivo" },
+  { "id": "4", "title": "Post 4 (Local)", "body": "Cuarto post, uso de map o flatlist" }
+]
